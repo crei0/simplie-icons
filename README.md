@@ -1,6 +1,6 @@
 # Simplié (Icons package)
 
-![Simplié](https://crei0.github.com/images/splash.png)
+![Simplié](https://github.com/crei0/simplie-icons/raw/master/splash.jpg)
 
 Simplié is an icons package containing 170 different icon shapes, each icon shape has 8 color variations and each icon shape on each color  has 7 different sizes (128, 96, 64, 48, 32, 24, 16 px), meaning theare are 9520 icon files on this icons package (170 different icons * 8 color variations * 7 different sizes).
 
@@ -14,6 +14,6 @@ It was created by André Guedes [@crei0](https://github.com/crei0), and is licen
 ## More information
 
 **Color Palette**
-![Color Palette](https://crei0.github.com/images/color_table.png)
+![Color Palette](https://github.com/crei0/simplie-icons/raw/master/color_palette.png)
 
 **Last version:** 22-02-2008
