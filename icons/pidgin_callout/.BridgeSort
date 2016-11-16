@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<dirinfo>
+<files>
+<item key='pidgin_callout-black-16.png20080111195046' />
+<item key='pidgin_callout-black-24.png20080111195046' />
+<item key='pidgin_callout-black-32.png20080111195046' />
+<item key='pidgin_callout-black-48.png20080111195046' />
+<item key='pidgin_callout-black-64.png20080111195045' />
+<item key='pidgin_callout-black-96.png20080111195045' />
+<item key='pidgin_callout-black-128.png20080111195045' />
+<item key='pidgin_callout-blue-16.png20080111195046' />
+<item key='pidgin_callout-blue-24.png20080111195046' />
+<item key='pidgin_callout-blue-32.png20080111195046' />
+<item key='pidgin_callout-blue-48.png20080111195045' />
+<item key='pidgin_callout-blue-64.png20080111195045' />
+<item key='pidgin_callout-blue-96.png20080111195045' />
+<item key='pidgin_callout-blue-128.png20080111195045' />
+<item key='pidgin_callout-brown-16.png20080111195046' />
+<item key='pidgin_callout-brown-24.png20080111195046' />
+<item key='pidgin_callout-brown-32.png20080111195046' />
+<item key='pidgin_callout-brown-48.png20080111195045' />
+<item key='pidgin_callout-brown-64.png20080111195045' />
+<item key='pidgin_callout-brown-96.png20080111195045' />
+<item key='pidgin_callout-brown-128.png20080111195045' />
+<item key='pidgin_callout-green-16.png20080111195046' />
+<item key='pidgin_callout-green-24.png20080111195046' />
+<item key='pidgin_callout-green-32.png20080111195046' />
+<item key='pidgin_callout-green-48.png20080111195045' />
+<item key='pidgin_callout-green-64.png20080111195045' />
+<item key='pidgin_callout-green-96.png20080111195045' />
+<item key='pidgin_callout-green-128.png20080111195045' />
+<item key='pidgin_callout-pink-16.png20080111195046' />
+<item key='pidgin_callout-pink-24.png20080111195046' />
+<item key='pidgin_callout-pink-32.png20080111195046' />
+<item key='pidgin_callout-pink-48.png20080111195045' />
+<item key='pidgin_callout-pink-64.png20080111195045' />
+<item key='pidgin_callout-pink-96.png20080111195045' />
+<item key='pidgin_callout-pink-128.png20080111195045' />
+<item key='pidgin_callout-red-16.png20080111195046' />
+<item key='pidgin_callout-red-24.png20080111195046' />
+<item key='pidgin_callout-red-32.png20080111195046' />
+<item key='pidgin_callout-red-48.png20080111195046' />
+<item key='pidgin_callout-red-64.png20080111195045' />
+<item key='pidgin_callout-red-96.png20080111195045' />
+<item key='pidgin_callout-red-128.png20080111195045' />
+<item key='pidgin_callout-white-16.png20080111195046' />
+<item key='pidgin_callout-white-24.png20080111195046' />
+<item key='pidgin_callout-white-32.png20080111195046' />
+<item key='pidgin_callout-white-48.png20080111195046' />
+<item key='pidgin_callout-white-64.png20080111195045' />
+<item key='pidgin_callout-white-96.png20080111195045' />
+<item key='pidgin_callout-white-128.png20080111195045' />
+<item key='pidgin_callout-yellow-16.png20080111195046' />
+<item key='pidgin_callout-yellow-24.png20080111195046' />
+<item key='pidgin_callout-yellow-32.png20080111195046' />
+<item key='pidgin_callout-yellow-48.png20080111195045' />
+<item key='pidgin_callout-yellow-64.png20080111195045' />
+<item key='pidgin_callout-yellow-96.png20080111195045' />
+<item key='pidgin_callout-yellow-128.png20080111195045' />
+</files>
+</dirinfo>
