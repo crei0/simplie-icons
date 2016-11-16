@@ -2,7 +2,9 @@
 
 ![Simplié](https://crei0.github.com/images/splash.png)
 
-Simplié is an icons package containing 169 different icon shapes, each icon shape has 8 color variations and each icon shape on each color  has 7 different sizes (128, 96, 64, 48, 32, 24, 16 px), meaning theare are 9464 icon files on this icons package (169 different icons * 8 color variations * 7 different sizes).
+Simplié is an icons package containing 170 different icon shapes, each icon shape has 8 color variations and each icon shape on each color  has 7 different sizes (128, 96, 64, 48, 32, 24, 16 px), meaning theare are 9520 icon files on this icons package (170 different icons * 8 color variations * 7 different sizes).
+
+The icons are in PNG file format and the source files for the Icons is in Flash CS3.
 
 
 ## About
